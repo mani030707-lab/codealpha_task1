@@ -23,7 +23,6 @@ const products = [
 { id: "3f7c1a9e-8d2b-4e6a-8c41-9b5d2a7e6f80", image:"images/products/variations/round-sunglasses-black.jpg", name:"round-sunglasses-black", rating:{stars:4.5,count:9.5}, pricePaise:45000, keywords:["sunglasses","spectacles"] },
 { id: "6a1e8c2f-4d9b-4b7c-9a53-1c8d7e2f5b62", image:"images/products/variations/plain-hooded-fleece-sweatshirt-yellow.jpg", name:"hooded sweatshirt", rating:{stars:4.5,count:9.0}, pricePaise:35000, keywords:["hoode","sweat shirt","shirt"] },
 { id: "4c9b2a7e-1f6d-4a8e-8b24-7d3a9c1e5f77", image:"images/products/variations/men-slim-fit-summer-shorts-gray.jpg", name:"men-slim-fit-summer-shorts-gray", rating:{stars:3.5,count:8.5}, pricePaise:39900, keywords:["shorts","pants"] }
-
 ];
 
 function getProduct(productId) {

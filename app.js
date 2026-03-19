@@ -1,6 +1,4 @@
-// ============================================================
-//  SUPABASE CONFIG  —  Replace with your project credentials
-// ============================================================
+
 const SUPABASE_URL = "https://ciynlwxztxxbgnriwktx.supabase.co";
 const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNpeW5sd3h6dHh4Ymducml3a3R4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzMxNTQxMzMsImV4cCI6MjA4ODczMDEzM30.EzdlIMv6Jnu7EJX9yWw3wKC280fQJI54H_iOKFnk3mA";
 
